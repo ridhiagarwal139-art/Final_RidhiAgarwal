@@ -1,6 +1,6 @@
 # Shrinkflation in Household Cleaning Products
 ### BUSN 32120 — Data Analysis with Python and SQL
-**Group 11:** Ridhi Agarwal, Jaire Augusto Byers | University of Chicago Booth School of Business, Winter 2026
+**Group 34:** Ridhi Agarwal | University of Chicago Booth School of Business, Winter 2026
 
 ---
 
