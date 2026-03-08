@@ -10,8 +10,8 @@ This project analyzes macroeconomic evidence of **shrinkflation** in household c
 ## Files
 | File | Description |
 |---|---|
-| `final_agarwal_byers.ipynb` | Main analysis notebook — introduction, EDA, feature engineering, models, SQL, and conclusion |
-| `sql_queries_agarwal_byers.ipynb` | Standalone SQL-only notebook with all 10 required queries, each fully commented |
+| `final_agarwal.ipynb` | Main analysis notebook — introduction, EDA, feature engineering, models, SQL, and conclusion |
+| `sql_queries_agarwal.ipynb` | Standalone SQL-only notebook with all 10 required queries, each fully commented |
 
 ## Data Sources
 - **FRED API** (Federal Reserve Economic Data) — CPI indices for cleaning products, all-items, core, household, and nondurable goods; NBER recession indicator
